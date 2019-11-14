@@ -1,5 +1,5 @@
 {
-  "name": "modernist",
+  "name": "minimal-template",
   "version": "1.0.0",
   "description": "A minimal template for a stylish, single-page website.",
   "main": "src/index.js",
