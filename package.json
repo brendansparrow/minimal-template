@@ -1,0 +1,25 @@
+{
+  "name": "modernist",
+  "version": "1.0.0",
+  "description": "A modernist, single-page site template for architects, designers and fashion brands.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "parcel serve src/index.html",
+    "watch": "parcel watch",
+    "build": "parcel build",
+    "test": "test"
+  },
+  "keywords": [
+    "minimalist",
+    "single-page",
+    "template",
+    "design",
+    "fashion",
+    "architecture"
+  ],
+  "author": "Brendan Sparrow",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
