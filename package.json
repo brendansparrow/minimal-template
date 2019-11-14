@@ -1,7 +1,7 @@
 {
   "name": "modernist",
   "version": "1.0.0",
-  "description": "A modernist, single-page site template for architects, designers and fashion brands.",
+  "description": "A minimal template for a stylish, single-page website.",
   "main": "src/index.js",
   "scripts": {
     "start": "parcel serve src/index.html",
